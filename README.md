@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🧙‍♀️ HHHH HGFH
+**`Not a GEEK`**
 
-<!--
-**Claucdan/Claucdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend programmer. At the current period of my life I am studying at ITMO at the Faculty of Information Technologies and Programming. I love programming in C/C++.All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
-Here are some ideas to get you started:
+### 🧰 Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,linux,cmake,git,bash,postgres&theme=light)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+### 📊 Stats
+
+[![Claucdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=claucdan&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claucdan&layout=compact)
